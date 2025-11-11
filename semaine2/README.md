@@ -139,7 +139,6 @@ StreamFlex-Semaine2-GroupeX/
 ### **Modalités :**
 
 ```bash
-"Format : Archive ZIP sur Moodle"
 "Nommage : StreamFlex-Semaine2-GroupeX.zip"
 "Date limite : Vendredi 18h00"
 ```
