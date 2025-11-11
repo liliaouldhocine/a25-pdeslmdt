@@ -1,4 +1,4 @@
-# 📋 **ÉNONCÉ DU RAPPORT - SEMAINE 3**
+# **ÉNONCÉ DU RAPPORT - SEMAINE 3**
 
 ## **STREAMFLEX - RAPPORT D'AVANCEMENT SEMAINE 3**
 
@@ -179,7 +179,7 @@ StreamFlex-Semaine3-GroupeX/
 
 ---
 
-## 💡 **CONSEILS POUR RÉUSSIR**
+## **CONSEILS POUR RÉUSSIR**
 
 ### **Déploiement EC2 :**
 
@@ -207,7 +207,7 @@ StreamFlex-Semaine3-GroupeX/
 
 ---
 
-## 📚 **RESSOURCES UTILES**
+## **RESSOURCES UTILES**
 
 ### **Documentation AWS :**
 
